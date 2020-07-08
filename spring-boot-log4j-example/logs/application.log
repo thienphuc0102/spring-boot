@@ -1,0 +1,24 @@
+[INFO ] 2020-07-08 18:03:38.272 [restartedMain] SpringBootLog4jExampleApplication - Starting SpringBootLog4jExampleApplication on FS-DKT-001 with PID 8976 (C:\Users\PhucTran\Desktop\spring-boot-log4j-example\target\classes started by PhucTran in C:\Users\PhucTran\Desktop\spring-boot-log4j-example)
+[DEBUG] 2020-07-08 18:03:38.278 [restartedMain] SpringBootLog4jExampleApplication - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+[INFO ] 2020-07-08 18:03:38.278 [restartedMain] SpringBootLog4jExampleApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-07-08 18:03:39.239 [restartedMain] SpringBootLog4jExampleApplication - Started SpringBootLog4jExampleApplication in 1.238 seconds (JVM running for 2.367)
+[DEBUG] 2020-07-08 18:03:52.292 [http-nio-8080-exec-1] Log4J2Controller - Debugging log in our greeting method
+[INFO ] 2020-07-08 18:03:52.292 [http-nio-8080-exec-1] Log4J2Controller - Info log in our greeting method
+[WARN ] 2020-07-08 18:03:52.292 [http-nio-8080-exec-1] Log4J2Controller - Warning log in our greeting method
+[ERROR] 2020-07-08 18:03:52.292 [http-nio-8080-exec-1] Log4J2Controller - Error in our greeting method
+[INFO ] 2020-07-08 18:07:14.877 [restartedMain] SpringBootLog4jExampleApplication - Starting SpringBootLog4jExampleApplication on FS-DKT-001 with PID 6292 (C:\Users\PhucTran\Desktop\spring-boot-log4j-example\target\classes started by PhucTran in C:\Users\PhucTran\Desktop\spring-boot-log4j-example)
+[DEBUG] 2020-07-08 18:07:14.883 [restartedMain] SpringBootLog4jExampleApplication - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+[INFO ] 2020-07-08 18:07:14.883 [restartedMain] SpringBootLog4jExampleApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-07-08 18:07:15.800 [restartedMain] SpringBootLog4jExampleApplication - Started SpringBootLog4jExampleApplication in 1.186 seconds (JVM running for 2.263)
+[INFO ] 2020-07-08 18:07:57.678 [restartedMain] SpringBootLog4jExampleApplication - Starting SpringBootLog4jExampleApplication on FS-DKT-001 with PID 5928 (C:\Users\PhucTran\Desktop\spring-boot-log4j-example\target\classes started by PhucTran in C:\Users\PhucTran\Desktop\spring-boot-log4j-example)
+[DEBUG] 2020-07-08 18:07:57.684 [restartedMain] SpringBootLog4jExampleApplication - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+[INFO ] 2020-07-08 18:07:57.684 [restartedMain] SpringBootLog4jExampleApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-07-08 18:07:58.628 [restartedMain] SpringBootLog4jExampleApplication - Started SpringBootLog4jExampleApplication in 1.218 seconds (JVM running for 2.387)
+[DEBUG] 2020-07-08 18:08:00.570 [http-nio-8080-exec-1] Log4J2Controller - Debugging log in our greeting method
+[INFO ] 2020-07-08 18:08:00.570 [http-nio-8080-exec-1] Log4J2Controller - Info log in our greeting method
+[WARN ] 2020-07-08 18:08:00.570 [http-nio-8080-exec-1] Log4J2Controller - Warning log in our greeting method
+[ERROR] 2020-07-08 18:08:00.570 [http-nio-8080-exec-1] Log4J2Controller - Error in our greeting method
+[DEBUG] 2020-07-08 18:08:06.633 [http-nio-8080-exec-2] Log4J2Controller - Debugging log in our greeting method
+[INFO ] 2020-07-08 18:08:06.633 [http-nio-8080-exec-2] Log4J2Controller - Info log in our greeting method
+[WARN ] 2020-07-08 18:08:06.633 [http-nio-8080-exec-2] Log4J2Controller - Warning log in our greeting method
+[ERROR] 2020-07-08 18:08:06.634 [http-nio-8080-exec-2] Log4J2Controller - Error in our greeting method
