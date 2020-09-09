@@ -1,0 +1,9 @@
+/target
+/.settings
+/*.project
+/*.classpath
+/*.pmd
+/logs
+/Arch.sonargraph
+ro-domain.iml
+.idea/
